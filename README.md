@@ -1,8 +1,13 @@
+*********************
+9/18/23
+Forked design: Adding my upgraded parts to mount a new Voron V0 OLED display controller, Raspberry Pi, and an SKR Mini E3 V3 control board to run Klipper firmware.
+
+*********************
+
 ERIS Delta 3D Printer
 =====================
 
 ERIS is an affordable desktop 3D printer built by SeeMeCNC.  We designed this machine to be fast, easy to use and much more affordable than any of our previous designs.  
-
 
 3/2/16
 DIR Repetier-Firmware-092.2-ERIS is workign on prototypes
